@@ -1,5 +1,5 @@
 
-# AdaptFM-DA4022: Resource-Adaptive Deep Learning
+# AdaptFM-DA4022: Resource Adaptive Deep Learning
 
 This repository is a **research and engineering library** for implementing and comparing methods that make deep-learning inference adapt to hardware, latency, memory, energy, or quality constraints. AdaptFM workshop papers are used as research starting points; the repository is responsible for a common implementation interface, reproducibility, and comparable benchmarks.
 
